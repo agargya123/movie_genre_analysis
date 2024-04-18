@@ -1,4 +1,4 @@
-##Movie Genre Analysis
+<h2>Movie Genre Analysis</h2>
 With the rise of streaming services, the number of genre tags assigned to a film could possibly impact it's reach and viewership. This project explores if there is an optimal genre_count that maximizes the viewership for a film. If yes, is there a difference in the 'best' count of genres across different genres as well?
 <br>
 Result = Overall Optimal Number of genres is: 3. 
